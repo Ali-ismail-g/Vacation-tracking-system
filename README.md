@@ -7,6 +7,7 @@
 <img width="1151" height="1571" alt="vtsSequenceDiagram drawio" src="https://github.com/user-attachments/assets/fe479eb7-9adb-46e2-803b-98c0406f87fe" />
 
 #Pseudocode 
+
 signInPortal()
 If employee is authenticated in portal, employee can login VTS and check his balance of vacations.
 Else return invalid credentials.
