@@ -28,6 +28,7 @@ Else the manager will state the reasons why he rejected the vacation request and
 
 # Withdraw Request use case
 #Flow chart
+
 <img width="380" height="891" alt="flowChart drawio" src="https://github.com/user-attachments/assets/fb17f7a8-b754-4ceb-a3f0-bf993765c364" />
 
 #Sequence diagram
