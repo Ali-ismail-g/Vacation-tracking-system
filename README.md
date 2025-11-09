@@ -34,3 +34,9 @@ Else the manager will state the reasons why he rejected the vacation request and
 #Sequence diagram
 
 <img width="931" height="931" alt="withDrawSequenceDiagram drawio" src="https://github.com/user-attachments/assets/c126aad7-6180-4090-a225-4845e061fddb" />
+
+# Cancel approved Request use case
+#Flow chart
+
+<img width="621" height="861" alt="cancelApproved drawio" src="https://github.com/user-attachments/assets/c63a68c7-ff95-424a-86ce-4b60f1e4ca3a" />
+
