@@ -27,4 +27,9 @@ If the manager grant the vacation, an email will be sent to the employee with th
 Else the manager will state the reasons why he rejected the vacation request and it will be sent to the employee.
 
 # Withdraw Request use case
+#Flow chart
 <img width="380" height="891" alt="flowChart drawio" src="https://github.com/user-attachments/assets/fb17f7a8-b754-4ceb-a3f0-bf993765c364" />
+
+#Sequence diagram
+
+<img width="931" height="931" alt="withDrawSequenceDiagram drawio" src="https://github.com/user-attachments/assets/c126aad7-6180-4090-a225-4845e061fddb" />
