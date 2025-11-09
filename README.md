@@ -25,3 +25,6 @@ Else return invalid credentials.
 VacationResponse()
 If the manager grant the vacation, an email will be sent to the employee with the approval.
 Else the manager will state the reasons why he rejected the vacation request and it will be sent to the employee.
+
+# Withdraw Request use case
+<img width="380" height="891" alt="flowChart drawio" src="https://github.com/user-attachments/assets/fb17f7a8-b754-4ceb-a3f0-bf993765c364" />
