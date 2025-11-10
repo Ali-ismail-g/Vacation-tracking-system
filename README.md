@@ -1,7 +1,8 @@
 # Vacation-tracking-system
 # Manage time use case
 #Flow chart
-<img width="2091" height="486" alt="chart drawio" src="https://github.com/user-attachments/assets/1f8c9f6e-5439-4182-8299-2fbaed432d0b" />
+<img width="2091" height="486" alt="manageTimeFlowChart" src="https://github.com/user-attachments/assets/ccc985b2-3b08-46d1-81be-107a7005e775" />
+
 
 #Sequence Diagram
 <img width="1151" height="1571" alt="vtsSequenceDiagram drawio" src="https://github.com/user-attachments/assets/fe479eb7-9adb-46e2-803b-98c0406f87fe" />
