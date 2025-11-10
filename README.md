@@ -38,5 +38,4 @@ Else the manager will state the reasons why he rejected the vacation request and
 # Cancel approved Request use case
 #Flow chart
 
-<img width="621" height="861" alt="cancelApproved drawio" src="https://github.com/user-attachments/assets/c63a68c7-ff95-424a-86ce-4b60f1e4ca3a" />
-
+<img width="621" height="1201" alt="cancelApproved drawio" src="https://github.com/user-attachments/assets/16076239-e053-4fcc-acbc-f8f81af7b8b9" />
