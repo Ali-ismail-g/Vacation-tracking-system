@@ -38,9 +38,16 @@ Else the manager will state the reasons why he rejected the vacation request and
 # Cancel approved Request use case
 #Flow chart
 
-<img width="621" height="1201" alt="cancelApproved drawio" src="https://github.com/user-attachments/assets/16076239-e053-4fcc-acbc-f8f81af7b8b9" />
+
 
 #Sequence chart
 <img width="911" height="1041" alt="cancelApprovedSequenceDiagram drawio" src="https://github.com/user-attachments/assets/53d02664-8efe-4379-9144-b3498f5666d0" />
+
+# Edit a vacation request use case
+#Flow chart
+
+<img width="541" height="1141" alt="editPendingRequest drawio" src="https://github.com/user-attachments/assets/cc4390ae-fa0a-4103-99b8-d890b4373fe0" />
+
+
 
 
