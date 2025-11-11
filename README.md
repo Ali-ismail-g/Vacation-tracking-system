@@ -51,6 +51,9 @@ Else the manager will state the reasons why he rejected the vacation request and
 
 #Sequence chart
 
+<img width="771" height="1011" alt="editRequestSequenceChart drawio" src="https://github.com/user-attachments/assets/886f8123-2b2d-44b6-a57d-467162bbbac0" />
+
+
 # ERD Diagram
 
 <img width="749" height="1242" alt="ERD drawio" src="https://github.com/user-attachments/assets/71f81543-10c3-447f-b033-544bbb07f45f" />
