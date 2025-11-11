@@ -49,6 +49,8 @@ Else the manager will state the reasons why he rejected the vacation request and
 
 <img width="541" height="1141" alt="editPendingRequest drawio" src="https://github.com/user-attachments/assets/cc4390ae-fa0a-4103-99b8-d890b4373fe0" />
 
+#Sequence chart
 
+# ERD Diagram
 
-
+<img width="749" height="1242" alt="ERD drawio" src="https://github.com/user-attachments/assets/71f81543-10c3-447f-b033-544bbb07f45f" />
