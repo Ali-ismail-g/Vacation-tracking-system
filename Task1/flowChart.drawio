@@ -1,0 +1,81 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="28.2.9">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1426" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="QFXF2b6sheB_OoVp6Cl--2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QFXF2b6sheB_OoVp6Cl--0" target="QFXF2b6sheB_OoVp6Cl--1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QFXF2b6sheB_OoVp6Cl--0" value="log in VTS via portal" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="354" y="90" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QFXF2b6sheB_OoVp6Cl--4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QFXF2b6sheB_OoVp6Cl--1" target="QFXF2b6sheB_OoVp6Cl--3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QFXF2b6sheB_OoVp6Cl--1" value="Check current status &amp;amp; available balance" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="354" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QFXF2b6sheB_OoVp6Cl--7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QFXF2b6sheB_OoVp6Cl--3" target="QFXF2b6sheB_OoVp6Cl--5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QFXF2b6sheB_OoVp6Cl--3" value="Employee selects a vacation time request to withdraw" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="354.5" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QFXF2b6sheB_OoVp6Cl--21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QFXF2b6sheB_OoVp6Cl--5" target="QFXF2b6sheB_OoVp6Cl--20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QFXF2b6sheB_OoVp6Cl--22" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QFXF2b6sheB_OoVp6Cl--21">
+          <mxGeometry x="-0.2769" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QFXF2b6sheB_OoVp6Cl--28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QFXF2b6sheB_OoVp6Cl--17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QFXF2b6sheB_OoVp6Cl--5" value="VTS&amp;nbsp;&amp;nbsp;prompts the employee to confirm the request to withdraw&amp;nbsp;&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="300" y="440" width="229" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="QFXF2b6sheB_OoVp6Cl--24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QFXF2b6sheB_OoVp6Cl--20" target="QFXF2b6sheB_OoVp6Cl--23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QFXF2b6sheB_OoVp6Cl--20" value="&lt;div&gt;&amp;nbsp;The request is&amp;nbsp;&lt;/div&gt;&lt;div&gt;removed from the manager’s list of pending approvals&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="354.5" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QFXF2b6sheB_OoVp6Cl--26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QFXF2b6sheB_OoVp6Cl--23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414.5" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QFXF2b6sheB_OoVp6Cl--23" value="The system sends a notification e-mail to the manager" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="354" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QFXF2b6sheB_OoVp6Cl--27" value="The system updates the request state to withdrawn" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="354" y="900" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QFXF2b6sheB_OoVp6Cl--29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QFXF2b6sheB_OoVp6Cl--5" target="QFXF2b6sheB_OoVp6Cl--17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="320" as="targetPoint" />
+            <mxPoint x="300" y="520" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QFXF2b6sheB_OoVp6Cl--32" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QFXF2b6sheB_OoVp6Cl--29">
+          <mxGeometry x="-0.6059" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QFXF2b6sheB_OoVp6Cl--31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QFXF2b6sheB_OoVp6Cl--17" target="QFXF2b6sheB_OoVp6Cl--30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QFXF2b6sheB_OoVp6Cl--17" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="150" y="310" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QFXF2b6sheB_OoVp6Cl--30" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="340" y="310" width="20" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

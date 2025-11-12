@@ -1,0 +1,108 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="28.2.9">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1426" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="XQ7lp7udFRG-p6MaAsVP-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XQ7lp7udFRG-p6MaAsVP-1" target="XQ7lp7udFRG-p6MaAsVP-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XQ7lp7udFRG-p6MaAsVP-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="440" y="10" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XQ7lp7udFRG-p6MaAsVP-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XQ7lp7udFRG-p6MaAsVP-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XQ7lp7udFRG-p6MaAsVP-3" value="log in VTS via portal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="440" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XQ7lp7udFRG-p6MaAsVP-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XQ7lp7udFRG-p6MaAsVP-5" target="XQ7lp7udFRG-p6MaAsVP-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XQ7lp7udFRG-p6MaAsVP-5" value="Check current status &amp;amp; available balance" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="440" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XQ7lp7udFRG-p6MaAsVP-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XQ7lp7udFRG-p6MaAsVP-6" target="XQ7lp7udFRG-p6MaAsVP-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XQ7lp7udFRG-p6MaAsVP-6" value="The employee checks the pending list of vacation time request" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="440" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XQ7lp7udFRG-p6MaAsVP-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XQ7lp7udFRG-p6MaAsVP-7" target="XQ7lp7udFRG-p6MaAsVP-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XQ7lp7udFRG-p6MaAsVP-7" value="The employee selects a vacation time request to edit" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="440" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XQ7lp7udFRG-p6MaAsVP-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XQ7lp7udFRG-p6MaAsVP-9" target="XQ7lp7udFRG-p6MaAsVP-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XQ7lp7udFRG-p6MaAsVP-9" value="The employee can edit info or date for the vacation request" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="440" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XQ7lp7udFRG-p6MaAsVP-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XQ7lp7udFRG-p6MaAsVP-11" target="XQ7lp7udFRG-p6MaAsVP-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XQ7lp7udFRG-p6MaAsVP-15" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XQ7lp7udFRG-p6MaAsVP-14">
+          <mxGeometry y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XQ7lp7udFRG-p6MaAsVP-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XQ7lp7udFRG-p6MaAsVP-11" target="XQ7lp7udFRG-p6MaAsVP-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XQ7lp7udFRG-p6MaAsVP-11" value="Cancel/withdraw the vacation request" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="420" y="585" width="160" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="XQ7lp7udFRG-p6MaAsVP-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XQ7lp7udFRG-p6MaAsVP-13" target="XQ7lp7udFRG-p6MaAsVP-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XQ7lp7udFRG-p6MaAsVP-13" value="Status is updated on VTS" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="200" y="617.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XQ7lp7udFRG-p6MaAsVP-16" value="Return to VTS home page" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="607.5" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XQ7lp7udFRG-p6MaAsVP-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XQ7lp7udFRG-p6MaAsVP-18" target="XQ7lp7udFRG-p6MaAsVP-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XQ7lp7udFRG-p6MaAsVP-18" value="Changes are submitted to VTS" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="440" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XQ7lp7udFRG-p6MaAsVP-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XQ7lp7udFRG-p6MaAsVP-21" target="XQ7lp7udFRG-p6MaAsVP-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XQ7lp7udFRG-p6MaAsVP-21" value="Return to VTS home page" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="440" y="960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XQ7lp7udFRG-p6MaAsVP-23" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="440" y="1070" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XQ7lp7udFRG-p6MaAsVP-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XQ7lp7udFRG-p6MaAsVP-25" target="XQ7lp7udFRG-p6MaAsVP-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XQ7lp7udFRG-p6MaAsVP-28" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XQ7lp7udFRG-p6MaAsVP-27">
+          <mxGeometry x="-0.1429" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XQ7lp7udFRG-p6MaAsVP-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XQ7lp7udFRG-p6MaAsVP-25" target="XQ7lp7udFRG-p6MaAsVP-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XQ7lp7udFRG-p6MaAsVP-31" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XQ7lp7udFRG-p6MaAsVP-30">
+          <mxGeometry x="-0.225" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XQ7lp7udFRG-p6MaAsVP-25" value="Check for any errors" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="440" y="740" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="XQ7lp7udFRG-p6MaAsVP-29" value="The employee will be asked to modify the submitted info" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="240" y="755" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
